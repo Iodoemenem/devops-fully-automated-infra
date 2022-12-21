@@ -1,7 +1,7 @@
 # devops-fully-automated-infra
 Fully automated and secured Terraform infra pipeline
 
-Testing to see if this will auto configure....
+Testing to see if webhook will automatically trigger jenkins....
 
 ## CICD Infra setup
 1) ###### GitHub setup
